@@ -1,6 +1,6 @@
 # Memory-Mangment-algorithms
 <br>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Best Fit Allocation:
 In this algorithm, the memory manager searches for the smallest free partition that can accommodate the incoming process.
 It aims to minimize the amount of wasted memory and reduce external fragmentation.
