@@ -22,6 +22,7 @@ It aims to optimize the utilization of memory by allocating the largest availabl
 Can result in more external fragmentation as smaller free partitions are left unused.
 <br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 4- Partition Allocation:
 Partition allocation refers to the division of memory into fixed-sized or variable-sized partitions to accommodate processes. <br>
 Fixed partition allocation assigns specific partitions to processes, while dynamic partition allocation allows for variable-sized partitions.<br>
